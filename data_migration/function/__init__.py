@@ -1,0 +1,1 @@
+from .neo4j_adapter import NeoAdapter
